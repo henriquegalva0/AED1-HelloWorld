@@ -1,6 +1,6 @@
 # Objetivo da Missão
-## Esta missão tem como objetivo revisar conceitos básicos de programação já conhecidos em Python e aplicá-los na linguagem C. Os exercícios devem ser feitos individualmente ou em duplas, e cada atividade concluída corretamente vale XP para a equipe.
-Exercícios
+### Esta missão tem como objetivo revisar conceitos básicos de programação já conhecidos em Python e aplicá-los na linguagem C. Os exercícios devem ser feitos individualmente ou em duplas, e cada atividade concluída corretamente vale XP para a equipe.
+## Exercícios
 1. Escreva um programa que imprima na tela a mensagem: Olá, Mundo!
 2. Crie um programa que leia um número inteiro e imprima o dobro desse número.
 3. Escreva um programa que calcule e imprima a área de um círculo, dado o raio. (Use a constante PI = 3.14159)
